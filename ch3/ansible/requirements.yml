@@ -1,3 +1,0 @@
-- name: nginx
-  src: https://github.com/brikis98/devops-book-nginx-role
-  version: 1.0.0
